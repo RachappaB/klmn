@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data exports
+*.csv
+
+# Build / cache
+__pycache__/
+*.pyc

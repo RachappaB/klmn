@@ -1,0 +1,10 @@
+
+
+// ================= INFLUXDB =================
+#define INFLUXDB_URL "https://us-east-1-1.aws.cloud2.influxdata.com"
+#define INFLUXDB_TOKEN "rcz8tTVL3gNffVUxdTyc_UyCG2ydndmtwKaSlYphEyUPrKXus-qYxhEOaxcU1eMul5g3MAHd_nDhnhhOikG0vg=="
+#define INFLUXDB_ORG "861c8c194327e7ec"
+#define INFLUXDB_BUCKET "s"
+
+// Time zone
+#define TZ_INFO "UTC5.5"

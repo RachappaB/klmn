@@ -1,0 +1,17 @@
+all the python datascience and ai  in this  
+virtual enivorment
+
+source venv/bin/activate
+
+
+to decativie
+
+
+
+deactivate
+
+
+
+to run jupyter lab
+
+jupyter lab

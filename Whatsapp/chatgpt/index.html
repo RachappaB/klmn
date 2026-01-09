@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI WhatsApp Chat</title>
+</head>
+<body>
+
+<h2>AI Game Character</h2>
+
+<input id="number" placeholder="WhatsApp number with country code" />
+<br><br>
+
+<textarea id="msg" placeholder="Type or speak"></textarea>
+<br><br>
+
+<button onclick="send()">Send</button>
+<button onclick="startVoice()">🎤 Speak</button>
+
+<script>
+async function send() {
+    const number = document.getElementById('number').value;
+    const message = document.getElementById('msg').value;
+
+    await fetch('http://localhost:4000/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ number, message })
+    });
+
+    alert('Sent to WhatsApp');
+}
+
+function startVoice() {
+    const r = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+    r.lang = 'en-US';
+    r.onresult = e => {
+        document.getElementById('msg').value = e.results[0][0].transcript;
+    };
+    r.start();
+}
+</script>
+
+</body>
+</html>
