@@ -1,0 +1,12 @@
+device:
+  name: ubuntu_laptop
+  user: rachappa
+  os: ubuntu
+
+interval:
+  window_seconds: 900  # testing; later change to 900
+
+mongodb:
+  uri: "mongodb+srv://rachappa:82hZRaXz5rUesKh@cluster0.sfu8ztc.mongodb.net/?appName=Cluster0"
+  database: "productivity"
+  collection: "activity_15m"

@@ -1,0 +1,9 @@
+# Keyboard & mouse activity tracking
+pynput==1.7.6
+
+# MongoDB Atlas (cloud database)
+pymongo==4.6.1
+dnspython==2.4.2
+
+# Configuration file support
+pyyaml==6.0.1

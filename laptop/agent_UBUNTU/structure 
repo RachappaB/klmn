@@ -1,0 +1,17 @@
+productivity-agent/
+│
+├── agent/
+│   ├── collectors/
+│   │   ├── input_tracker.py
+│   │   ├── app_tracker.py
+│   │   └── power_tracker.py
+│   │
+│   ├── aggregator/
+│   │   └── window_15m.py
+│   │
+│   ├── writer/
+│   │   └── influx_writer.py
+│   │
+│   └── main.py
+│
+└── config.yaml

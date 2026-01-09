@@ -1,0 +1,7 @@
+pynput==1.7.6
+pymongo==4.6.1
+dnspython==2.4.2
+pyyaml==6.0.1
+pywin32==306
+psutil==5.9.8
+winrt-Windows.Media.Control==2.0.1
