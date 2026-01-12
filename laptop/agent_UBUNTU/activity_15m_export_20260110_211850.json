@@ -1,0 +1,2752 @@
+[
+  {
+    "_id": {
+      "$oid": "69614aa5a3443251889e65a3"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:36:21.183Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 340,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "rachappa@laptop: ~/klmn/laptop/agent_UBUNTU": 5,
+      "gnome-shell": 1,
+      "README - klmn - Visual Studio Code": 2,
+      "config.yaml - klmn - Visual Studio Code": 2
+    },
+    "app_switch_count": 3,
+    "max_focus_streak_seconds": 5,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Kandi ditched Alan?! What\u2019s happened?#shorts #funny #growth #lol #love"
+  },
+  {
+    "_id": {
+      "$oid": "69614aafa3443251889e65a4"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:36:31.707Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 408,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "config.yaml - klmn - Visual Studio Code": 1,
+      "gnome-shell": 1,
+      "rachappa@laptop: ~/klmn/laptop/agent_UBUNTU": 4,
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 4
+    },
+    "app_switch_count": 3,
+    "max_focus_streak_seconds": 4,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Kandi ditched Alan?! What\u2019s happened?#shorts #funny #growth #lol #love"
+  },
+  {
+    "_id": {
+      "$oid": "69614abaa3443251889e65a5"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:36:42.224Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 1,
+    "mouse_count": 354,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Kandi ditched Alan?! What\u2019s happened?#shorts #funny #growth #lol #love"
+  },
+  {
+    "_id": {
+      "$oid": "69614ac4a3443251889e65a6"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:36:52.537Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 188,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Kandi ditched Alan?! What\u2019s happened?#shorts #funny #growth #lol #love"
+  },
+  {
+    "_id": {
+      "$oid": "69614acea3443251889e65a7"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:37:02.955Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 132,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Kandi ditched Alan?! What\u2019s happened?#shorts #funny #growth #lol #love"
+  },
+  {
+    "_id": {
+      "$oid": "69614ad9a3443251889e65a8"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:37:13.369Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 8,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Kandi ditched Alan?! What\u2019s happened?#shorts #funny #growth #lol #love"
+  },
+  {
+    "_id": {
+      "$oid": "69614ae3a3443251889e65a9"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:37:23.914Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 6,
+    "mouse_count": 369,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 1,
+      "Free API to Send Whatsapp Messages - CallMeBot API - Brave": 1,
+      "Kandi ditched Alan?! What\u2019s happened?#shorts #funny #growth #lol #love - YouTube": 1,
+      "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons - Y": 3,
+      "config.yaml - klmn - Visual Studio Code": 4
+    },
+    "app_switch_count": 4,
+    "max_focus_streak_seconds": 4,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Kandi ditched Alan?! What\u2019s happened?#shorts #funny #growth #lol #love"
+  },
+  {
+    "_id": {
+      "$oid": "69614aeea3443251889e65aa"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:37:34.377Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 45,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "config.yaml - klmn - Visual Studio Code": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614af8a3443251889e65ab"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:37:44.857Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 327,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "config.yaml - klmn - Visual Studio Code": 8,
+      "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons - Y": 2
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 8,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b03a3443251889e65ac"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:37:55.225Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 229,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons - Y": 1,
+      "Ubuntu Productivity InfluxDB - Brave": 9
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 9,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b0da3443251889e65ad"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:38:05.729Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b18a3443251889e65ae"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:38:16.233Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b22a3443251889e65af"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:38:26.693Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 20,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b2ca3443251889e65b0"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:38:36.946Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 58,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b37a3443251889e65b1"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:38:47.328Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 299,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 7,
+      "config.yaml - klmn - Visual Studio Code": 3
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 7,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b41a3443251889e65b2"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:38:57.786Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 182,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "config.yaml - klmn - Visual Studio Code": 4,
+      "README.md - klmn - Visual Studio Code": 6
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 6,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b4ca3443251889e65b3"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:39:08.152Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 57,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "README.md - klmn - Visual Studio Code": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b56a3443251889e65b4"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:39:18.474Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 91,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "README.md - klmn - Visual Studio Code": 4,
+      "Ubuntu Productivity InfluxDB - Brave": 6
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 6,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b60a3443251889e65b5"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:39:28.977Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 1,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b6ba3443251889e65b6"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:39:39.404Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 42,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b75a3443251889e65b7"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:39:49.650Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 41,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b80a3443251889e65b8"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:40:00.113Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 16,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b8aa3443251889e65b9"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:40:10.559Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 31,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b94a3443251889e65ba"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:40:20.706Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 220,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 9,
+      "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons - Y": 1
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 9,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Homer's car hadn't been washed in ten years. #anime #animerecap #TheSimpsons"
+  },
+  {
+    "_id": {
+      "$oid": "69614b9ea3443251889e65bb"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:40:30.960Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 234,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Tiny Million-Dollar Battery - YouTube - Brave": 1,
+      "Ubuntu Productivity InfluxDB - Brave": 9
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 9,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614ba9a3443251889e65bc"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:40:41.131Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 28,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614bb3a3443251889e65bd"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:40:51.515Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614bbea3443251889e65be"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:41:02.012Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614bc8a3443251889e65bf"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:41:12.529Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614bd3a3443251889e65c0"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:41:23.149Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614bdda3443251889e65c1"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:41:33.658Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614be8a3443251889e65c2"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:41:44.191Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614bf2a3443251889e65c3"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:41:54.933Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614bfda3443251889e65c4"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:42:05.439Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614c07a3443251889e65c5"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:42:15.965Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 24,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614c12a3443251889e65c6"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:42:26.429Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 208,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 8,
+      "Picture in picture": 2
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 8,
+    "background_media": true,
+    "background_media_seconds": 8,
+    "background_media_source": "other_media",
+    "background_media_title": "Tiny Million-Dollar Battery"
+  },
+  {
+    "_id": {
+      "$oid": "69614c1ca3443251889e65c7"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:42:36.774Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 206,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Picture in picture": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c27a3443251889e65c8"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:42:47.101Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Picture in picture": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c31a3443251889e65c9"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:42:57.500Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 14,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Picture in picture": 9,
+      "Ubuntu Productivity InfluxDB - Brave": 1
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 9,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c3ba3443251889e65ca"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:43:07.805Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 6,
+    "mouse_count": 80,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c46a3443251889e65cb"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:43:18.210Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 6,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c50a3443251889e65cc"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:43:28.629Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c5ba3443251889e65cd"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:43:39.048Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c65a3443251889e65ce"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:43:49.459Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c6fa3443251889e65cf"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:43:59.866Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c7aa3443251889e65d0"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:44:10.274Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c84a3443251889e65d1"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:44:20.686Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c8fa3443251889e65d2"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:44:31.092Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614c99a3443251889e65d3"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:44:41.502Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 0,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614ca3a3443251889e65d4"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:44:51.921Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 20,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614caea3443251889e65d5"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:45:02.360Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 198,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 8,
+      "README.md - klmn - Visual Studio Code": 1,
+      "\u25cf .gitignore - klmn - Visual Studio Code": 1
+    },
+    "app_switch_count": 2,
+    "max_focus_streak_seconds": 8,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614cb8a3443251889e65d6"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:45:12.753Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 169,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "\u25cf .gitignore - klmn - Visual Studio Code": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614cc3a3443251889e65d7"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:45:23.167Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 4,
+    "mouse_count": 42,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "\u25cf .gitignore - klmn - Visual Studio Code": 8,
+      ".gitignore - klmn - Visual Studio Code": 2
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 8,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614ccda3443251889e65d8"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:45:33.534Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 0,
+    "mouse_count": 46,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      ".gitignore - klmn - Visual Studio Code": 9,
+      "Ubuntu Productivity InfluxDB - Brave": 1
+    },
+    "app_switch_count": 1,
+    "max_focus_streak_seconds": 9,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69614cd7a3443251889e65d9"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T18:45:43.829Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 1,
+    "mouse_count": 85,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 10
+    },
+    "app_switch_count": 0,
+    "max_focus_streak_seconds": 10,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "696154cccc5fd6dccb3f51d6"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T19:19:40.751Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 19,
+    "mouse_count": 2992,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 27,
+      "rachappa@laptop: ~/klmn/laptop/agent_UBUNTU": 36,
+      "Even old songs were copied! - YouTube - Brave": 13,
+      "A-List Celeb Delivered My Baby?!#shorts #funny #family #baby #comedy - YouTube -": 24,
+      "#foryou #fyp #pov #skit #story #joke #funny #funnyvideos #foryoupage #viral #too": 71,
+      "Tuff Jug Shows \u2019Em Who\u2019s Boss at SEMA 2025 | Fastest Fill. Zero Spill. - YouTube": 115,
+      "Who stole the thing - YouTube - Brave": 153,
+      "You realize your wife's true plan in jail \ud83d\udc94 #Shorts - YouTube - Brave": 127,
+      "How Hard Do Tank Drivers Really Work? - YouTube - Brave": 95,
+      "The most cruel human experiments in the world. #movie #film #shorts #spectral - ": 169,
+      "Gaming PC With Gauges?! - YouTube - Brave": 20,
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 12,
+      "The man traded his looks for power. - YouTube - Brave": 38
+    },
+    "app_switch_count": 21,
+    "max_focus_streak_seconds": 169,
+    "background_media": true,
+    "background_media_seconds": 869,
+    "background_media_source": "other_media",
+    "background_media_title": "Even old songs were copied!"
+  },
+  {
+    "_id": {
+      "$oid": "6961586ccc5fd6dccb3f51d7"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T19:35:08.266Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 298,
+    "mouse_count": 8192,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 500,
+      "From Paris with Love Hindi Dubbed Full Movie Watch Online Free | Movies123.pk - ": 4,
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 186,
+      "The man traded his looks for power. - YouTube - Brave": 61,
+      "Finally got the giraffetools g20 pressure washer!\ud83d\ude03 #pressurewasher #giraffetools": 18,
+      "Blue Mario - YouTube - Brave": 4,
+      "rachappa@laptop: ~/klmn/laptop/agent_UBUNTU": 11,
+      "": 1,
+      "gnome-shell": 1,
+      "config.yaml - klmn - Visual Studio Code": 3,
+      "main.py - klmn - Visual Studio Code": 78,
+      "\u25cf main.py - klmn - Visual Studio Code": 6,
+      "requirements.txt - klmn - Visual Studio Code": 26,
+      "\u25cf requirements.txt - klmn - Visual Studio Code": 1
+    },
+    "app_switch_count": 36,
+    "max_focus_streak_seconds": 191,
+    "background_media": true,
+    "background_media_seconds": 136,
+    "background_media_source": "other_media",
+    "background_media_title": "The man traded his looks for power."
+  },
+  {
+    "_id": {
+      "$oid": "69615c0acc5fd6dccb3f51d8"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T19:50:34.272Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 947,
+    "mouse_count": 9215,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 386,
+      "requirements.txt - klmn - Visual Studio Code": 45,
+      "setup.sh - klmn - Visual Studio Code": 25,
+      ".gitignore - klmn - Visual Studio Code": 1,
+      "mongo_writer.py - klmn - Visual Studio Code": 30,
+      "local_queue.py - klmn - Visual Studio Code": 19,
+      "\u25cf local_queue.py - klmn - Visual Studio Code": 1,
+      "\u25cf mongo_writer.py - klmn - Visual Studio Code": 1,
+      "main.py - klmn - Visual Studio Code": 145,
+      "\u25cf main.py - klmn - Visual Studio Code": 1,
+      "gnome-shell": 4,
+      "rachappa@laptop: ~/klmn/laptop/agent_UBUNTU": 12,
+      "New Tab - Brave": 2,
+      "YouTube - Brave": 19,
+      "orali yenu haba ayati avva karda - YouTube - Brave": 4,
+      "Jamma Jamma [Pathos] - YouTube - Brave": 3,
+      "input_tracker.py - klmn - Visual Studio Code": 14,
+      "app_tracker.py - klmn - Visual Studio Code": 9,
+      "power_tracker.py - klmn - Visual Studio Code": 22,
+      "window_15m.py - klmn - Visual Studio Code": 31,
+      "config.yaml - klmn - Visual Studio Code": 12,
+      "README - klmn - Visual Studio Code": 112,
+      "\u25cf README - klmn - Visual Studio Code": 2
+    },
+    "app_switch_count": 63,
+    "max_focus_streak_seconds": 147,
+    "background_media": true,
+    "background_media_seconds": 324,
+    "background_media_source": "other_media",
+    "background_media_title": "Jamma Jamma [Pathos]"
+  },
+  {
+    "_id": {
+      "$oid": "69615fa6cc5fd6dccb3f51d9"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T20:05:58.677Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 459,
+    "mouse_count": 13780,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "README - klmn - Visual Studio Code": 11,
+      "Ubuntu Productivity InfluxDB - Brave": 493,
+      "input_tracker.py - klmn - Visual Studio Code": 4,
+      "app_tracker.py - klmn - Visual Studio Code": 3,
+      "\u25cf app_tracker.py - klmn - Visual Studio Code": 1,
+      "power_tracker.py - klmn - Visual Studio Code": 10,
+      "window_15m.py - klmn - Visual Studio Code": 7,
+      "local_queue.py - klmn - Visual Studio Code": 5,
+      "mongo_writer.py - klmn - Visual Studio Code": 5,
+      "main.py - klmn - Visual Studio Code": 80,
+      "\u25cf main.py - klmn - Visual Studio Code": 19,
+      "config.yaml - klmn - Visual Studio Code": 21,
+      "requirements.txt - klmn - Visual Studio Code": 14,
+      "\u25cf requirements.txt - klmn - Visual Studio Code": 1,
+      "media_tracker.py - klmn - Visual Studio Code": 7,
+      "gnome-shell": 5,
+      "rachappa@laptop: ~/klmn/laptop/agent_UBUNTU": 18,
+      "Jeevna ne ondu cycle iddange | Full Song | Lyrical video | Sanjay Kumar K H - Yo": 14,
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 14,
+      "New Tab - Brave": 4,
+      "Visual Studio Code": 6,
+      "\u25cf .gitignore - klmn - Visual Studio Code": 17,
+      ".gitignore - klmn - Visual Studio Code": 43,
+      "sparkfun/SparkFun_MAX3010x_Sensor_Library: An Arduino Library for the MAX3015 pa": 2,
+      "GitHub - Brave": 16,
+      "RachappaB/klmn - Brave": 11,
+      "klmn/laptop at main \u00b7 RachappaB/klmn - Brave": 3,
+      "klmn/influx at main \u00b7 RachappaB/klmn - Brave": 6,
+      "patilsainath562/DBC: This Project is to create Digital Business Cards available ": 3,
+      "DBC/admins at main \u00b7 patilsainath562/DBC - Brave": 4,
+      "From Paris with Love Hindi Dubbed Full Movie Watch Online Free | Movies123.pk - ": 5,
+      "Nee Thoreda - YouTube - Brave": 3,
+      "YouTube - Brave": 10,
+      "System Monitor": 35
+    },
+    "app_switch_count": 99,
+    "max_focus_streak_seconds": 111,
+    "background_media": true,
+    "background_media_seconds": 896,
+    "background_media_source": "other_media",
+    "background_media_title": "Yako Barlilla"
+  },
+  {
+    "_id": {
+      "$oid": "6961634dcc5fd6dccb3f51da"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T20:21:33.237Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 21,
+    "mouse_count": 6311,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 115,
+      "gnome-shell": 18,
+      "Desktop Icons 1": 57,
+      "Android Studio Setup Wizard": 22,
+      "YouTube - Brave": 13,
+      "Your next big project deserves a real PCB - link in comments! #jlcpcb #rcsubmari": 153,
+      "Adulthood means one thing for Francis: getting out of the military academy.\ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0f": 35,
+      "Welcome to Android Studio": 5,
+      "New Project": 9,
+      "": 6,
+      "My Application \u2013 MainActivity.kt": 50,
+      "How FNAF 2 Should have Went - YouTube - Brave": 90,
+      "He literally rewrote her story \ud83d\ude2d#shorts - YouTube - Brave": 59,
+      "#shorts #laptop - YouTube - Brave": 3,
+      "Pull ME over?? Not if I pull them over first \ud83d\ude09 - YouTube - Brave": 30,
+      "I Built a PC Worth $26,000 to Save Old Tech From The TRASH! #tech #technology #c": 54,
+      "Error": 3,
+      "SDK Quickfix Installation": 5,
+      "Bern spent a fortune replicating the Las Vegas #anime #animerecap #TheSimpsons -": 161,
+      "Why Airbnb Beats Everyone: The Orange Principle Explained - YouTube - Brave": 3,
+      "#themiddle\u00a0#tvshow\u00a0#fyp\u00a0#evolution\u00a0#viral\u00a0#foryoupage\u00a0#movie - YouTube - Brave": 9
+    },
+    "app_switch_count": 41,
+    "max_focus_streak_seconds": 153,
+    "background_media": true,
+    "background_media_seconds": 888,
+    "background_media_source": "other_media",
+    "background_media_title": "HEJJE HEJJEGU - Cover Video Song | Salaga | Duniya Vijay | Naveen Sajju |Think music kannada"
+  },
+  {
+    "_id": {
+      "$oid": "696166f6cc5fd6dccb3f51db"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T20:37:10.675Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 2,
+    "mouse_count": 4203,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "#themiddle\u00a0#tvshow\u00a0#fyp\u00a0#evolution\u00a0#viral\u00a0#foryoupage\u00a0#movie - YouTube - Brave": 47,
+      "Dewey wants love from his big brother, Francis.\ud83d\udc96\ud83e\udd1f#shorts #viral #comedy #tv #tre": 4,
+      "His retirement application was not approved.#movie #shorts - YouTube - Brave": 9,
+      "Homer\u2019s India God Fiasco #thesimpsons #cartoon #funny #fyp #shorts - YouTube - B": 19,
+      "THIS is the future of drones and AI\u2026. #dji #drone #ai - YouTube - Brave": 39,
+      "He fell ill due to poor prison management.#shorts - YouTube - Brave": 156,
+      "Tell The Story #movie #foryou #foryoupage #trending #trendingshorts #hollywood #": 9,
+      "The emoney discord group is posting the BEST lead (found in bio) #shorts #shoppi": 30,
+      "ranger introduces their animal companion #dnd #dndmemes #dungeonsanddragons #dnd": 60,
+      "#movie #film #fyp - YouTube - Brave": 59,
+      "Victor can finally head home with peace of mind. - YouTube - Brave": 53,
+      "Very big Bender - YouTube - Brave": 54,
+      "Top 5 Family Guy Meg Moments\ud83d\udc67#tiktok #best #familyguy #funny - YouTube - Brave": 60,
+      "Whiteboard Blob Drawing Challenge - Level 1 - YouTube - Brave": 5,
+      "#fyp #shorts #funny #comedy #foryoupage #usa #us - YouTube - Brave": 98,
+      "Why Omni-Man didn't KILL Damien Darkblood? #omniman #invincible #invincibleseaso": 28,
+      "Benson Plays FNAF - YouTube - Brave": 80,
+      "gnome-shell": 15,
+      "Bowling match - YouTube - Brave": 66,
+      "SDK Quickfix Installation": 2,
+      "My Application \u2013 MainActivity.kt": 7
+    },
+    "app_switch_count": 23,
+    "max_focus_streak_seconds": 156,
+    "background_media": true,
+    "background_media_seconds": 897,
+    "background_media_source": "other_media",
+    "background_media_title": "#themiddle\u00a0#tvshow\u00a0#fyp\u00a0#evolution\u00a0#viral\u00a0#foryoupage\u00a0#movie"
+  },
+  {
+    "_id": {
+      "$oid": "69616a9dcc5fd6dccb3f51dc"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T20:52:45.662Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 114,
+    "mouse_count": 379,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Bowling match - YouTube - Brave": 10,
+      "Some things matter more than winning or losing! \ud83c\udfc6\u2764\ufe0f\ud83c\udf9e-Movie: Cars#shorts #viral #": 55,
+      "He really threatened to sue us\u2026 - YouTube - Brave": 10,
+      "The big city wasn't quite what it imagined\u2026#shorts #animation #robots #2005 #com": 350,
+      "Homer\u2019s way of slacking off is truly unique.#thesimpsons - YouTube - Brave": 61,
+      "What happens when ai plays hide and seek #game #story #meme - YouTube - Brave": 76,
+      "When the humanoid robot is an employee in a suit - YouTube - Brave": 123,
+      "na to karwan ki talash hai cover by me@shashwatsachdeva# #popularsong #viralsong": 2,
+      "What would you do if someone told you that you would be very famous in the futur": 213
+    },
+    "app_switch_count": 10,
+    "max_focus_streak_seconds": 350,
+    "background_media": true,
+    "background_media_seconds": 711,
+    "background_media_source": "other_media",
+    "background_media_title": "Bowling match"
+  },
+  {
+    "_id": {
+      "$oid": "69616e44cc5fd6dccb3f51dd"
+    },
+    "timestamp": {
+      "$date": "2026-01-09T21:08:20.667Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 13,
+    "mouse_count": 2630,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "What would you do if someone told you that you would be very famous in the futur": 266,
+      "\ud83d\udc47 Name & information \ud83d\udc47 - YouTube - Brave": 40,
+      "He just likes that body shape - YouTube - Brave": 61,
+      "You\u2019re free to disagree. - YouTube - Brave": 12,
+      "A home beyond imagination! \ud83d\ude32 #thailand - YouTube - Brave": 153,
+      "Ep5: Rise of India's Defence Self-Reliance #india #shorts #brahmos - YouTube - B": 82,
+      "the Uno reverse card - YouTube - Brave": 2,
+      "BENDER TURNS ON LEELA#shorts #futurama #funny #animation #cartoon #memes - YouTu": 53,
+      "He had planned everything from the very beginning #series #shorts #foryou #perso": 21,
+      "My Application \u2013 MainActivity.kt": 28,
+      "gnome-shell": 8,
+      "\ud83c\udfac \u201cOne Bite, Total Disaster\u201d \ud83e\udd22\ud83d\udd25\ud83c\udfe8 - YouTube - Brave": 2,
+      "How to install DeepSeek on a Raspberry Pi - YouTube - Brave": 61,
+      "Joseph Joestar was covered in camel spit. #anime #jojomeme #jjba - YouTube - Bra": 105,
+      "Pick your break up line \ud83d\ude05 #breakup #jordindian - YouTube - Brave": 6
+    },
+    "app_switch_count": 16,
+    "max_focus_streak_seconds": 266,
+    "background_media": true,
+    "background_media_seconds": 757,
+    "background_media_source": "other_media",
+    "background_media_title": "What would you do if someone told you that you would be very famous in the future?#shorts"
+  },
+  {
+    "_id": {
+      "$oid": "6961f00be1efde571d203477"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T06:22:03.115Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 90,
+    "mouse_count": 3067,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "ProductivityAgent \u2013 MainActivity.kt": 50,
+      "New Project": 15,
+      "Android Platform/API Version Distribution": 5,
+      "dfd \u2013 MainActivity.kt": 5,
+      "I tried the Cheapest Arduino Alternative (that Nobody heard of) - YouTube - Brav": 420,
+      "I tried finding Hidden Gems on AliExpress & got NASA Technology?! (Part 8) - You": 405
+    },
+    "app_switch_count": 6,
+    "max_focus_streak_seconds": 420,
+    "background_media": true,
+    "background_media_seconds": 900,
+    "background_media_source": "other_media",
+    "background_media_title": "I tried the Cheapest Arduino Alternative (that Nobody heard of)"
+  },
+  {
+    "_id": {
+      "$oid": "6961f392e1efde571d203478"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T06:37:06.532Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 275,
+    "mouse_count": 14707,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "I tried finding Hidden Gems on AliExpress & got NASA Technology?! (Part 8) - You": 185,
+      "gnome-shell": 5,
+      "dfd \u2013 MainActivity.kt": 75,
+      "I tried finding Hidden Gems on AliExpress AGAIN! (Part 13) - YouTube - Brave": 40,
+      "Ubuntu Productivity InfluxDB - Brave": 130,
+      "dfd \u2013 TrackerService.kt [dfd.app.main]": 45,
+      "dfd \u2013 UsageCollector.kt [dfd.app.main]": 25,
+      "dfd \u2013 WindowAggregator.kt [dfd.app.main]": 55,
+      "dfd \u2013 AndroidManifest.xml [dfd.app.main]": 45,
+      "dfd": 10,
+      "dfd \u2013 MainActivity.kt [dfd.app.main]": 5,
+      "New Project": 20,
+      "": 5,
+      "ProductivityAgent \u2013 MainActivity.kt": 35,
+      "ProductivityAgent": 5,
+      "ProductivityAgent \u2013 AndroidManifest.xml [ProductivityAgent.app.main]": 150,
+      "ProductivityAgent \u2013 MainActivity.kt [ProductivityAgent.app.main]": 25,
+      "ProductivityAgent \u2013 UsageCollector.kt [ProductivityAgent.app.main]": 10,
+      "ProductivityAgent \u2013 TrackerService.kt [ProductivityAgent.app.main]": 30
+    },
+    "app_switch_count": 56,
+    "max_focus_streak_seconds": 185,
+    "background_media": true,
+    "background_media_seconds": 260,
+    "background_media_source": "other_media",
+    "background_media_title": "I tried finding Hidden Gems on AliExpress & got NASA Technology?! (Part 8)"
+  },
+  {
+    "_id": {
+      "$oid": "6961f71ae1efde571d203479"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T06:52:10.259Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 290,
+    "mouse_count": 20925,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "ProductivityAgent \u2013 themes.xml [ProductivityAgent.app.main]": 315,
+      "Ubuntu Productivity InfluxDB - Brave": 265,
+      "ProductivityAgent \u2013 AndroidManifest.xml [ProductivityAgent.app.main]": 25,
+      "gnome-shell": 5,
+      "New Resource Directory": 100,
+      "Copy": 20,
+      "Error": 5,
+      "Delete": 10,
+      "ProductivityAgent \u2013 night/themes.xml": 150,
+      "ProductivityAgent \u2013 values/themes.xml [ProductivityAgent.app.main]": 5
+    },
+    "app_switch_count": 43,
+    "max_focus_streak_seconds": 100,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "6961faa1e1efde571d20347a"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T07:07:13.692Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 449,
+    "mouse_count": 13397,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 285,
+      "ProductivityAgent \u2013 themes.xml [ProductivityAgent.app.main]": 95,
+      "ProductivityAgent \u2013 Theme.kt [ProductivityAgent.app.main]": 50,
+      "ProductivityAgent \u2013 build.gradle.kts (:app)": 25,
+      "Untitled - Brave": 5,
+      "Sign in - Google Accounts - Brave": 20,
+      "ProductivityAgent \u2013 MainActivity.kt [ProductivityAgent.app.main]": 95,
+      "ProductivityAgent \u2013 TrackerService.kt [ProductivityAgent.app.main]": 60,
+      "ProductivityAgent \u2013 AndroidManifest.xml [ProductivityAgent.app.main]": 265
+    },
+    "app_switch_count": 39,
+    "max_focus_streak_seconds": 140,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "6961fe28e1efde571d20347b"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T07:22:16.938Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 274,
+    "mouse_count": 15770,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "ProductivityAgent \u2013 TrackerService.kt [ProductivityAgent.app.main]": 375,
+      "Ubuntu Productivity InfluxDB - Brave": 275,
+      "ProductivityAgent \u2013 MainActivity.kt [ProductivityAgent.app.main]": 160,
+      "ProductivityAgent \u2013 UsageCollector.kt [ProductivityAgent.app.main]": 20,
+      "ProductivityAgent \u2013 AndroidManifest.xml [ProductivityAgent.app.main]": 30,
+      "Running Devices - ProductivityAgent": 40
+    },
+    "app_switch_count": 30,
+    "max_focus_streak_seconds": 155,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "696201afe1efde571d20347c"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T07:37:19.436Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 332,
+    "mouse_count": 14192,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 270,
+      "ProductivityAgent \u2013 MainActivity.kt [ProductivityAgent.app.main]": 30,
+      "ProductivityAgent \u2013 AndroidManifest.xml [ProductivityAgent.app.main]": 100,
+      "gnome-shell": 5,
+      "Running Devices - ProductivityAgent": 25,
+      "New Tab - Brave": 5,
+      "ProductivityAgent \u2013 build.gradle.kts (ProductivityAgent)": 85,
+      "ProductivityAgent \u2013 build.gradle.kts (:app)": 255,
+      "Cannot Create File": 5,
+      "ProductivityAgent \u2013 UsageCollector.kt [ProductivityAgent.app.main]": 30,
+      "ProductivityAgent \u2013 MongoSender.kt [ProductivityAgent.app.main]": 40,
+      "ProductivityAgent \u2013 TrackerService.kt [ProductivityAgent.app.main]": 40,
+      "ProductivityAgent \u2013 settings.gradle.kts (ProductivityAgent)": 10
+    },
+    "app_switch_count": 55,
+    "max_focus_streak_seconds": 100,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69620536e1efde571d20347d"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T07:52:22.583Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 90,
+    "mouse_count": 17350,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "ProductivityAgent \u2013 build.gradle.kts (:app)": 155,
+      "Ubuntu Productivity InfluxDB - Brave": 130,
+      "ProductivityAgent \u2013 settings.gradle.kts (ProductivityAgent)": 5,
+      "ProductivityAgent \u2013 MongoSender.kt [ProductivityAgent.app.main]": 150,
+      "Running Devices - ProductivityAgent": 140,
+      "ProductivityAgent \u2013 TrackerService.kt [ProductivityAgent.app.main]": 5,
+      "gnome-shell": 10,
+      ".gitignore - klmn - Visual Studio Code": 5,
+      "Release Notes: 1.108.0 - klmn - Visual Studio Code": 5,
+      "config.yaml - klmn - Visual Studio Code": 55,
+      "app_tracker.py - klmn - Visual Studio Code": 10,
+      "mongo_writer.py - klmn - Visual Studio Code": 20,
+      "input_tracker.py - klmn - Visual Studio Code": 5,
+      "main.py - klmn - Visual Studio Code": 10,
+      "window_15m.py - klmn - Visual Studio Code": 10,
+      "power_tracker.py - klmn - Visual Studio Code": 5,
+      "media_tracker.py - klmn - Visual Studio Code": 5,
+      "requirements.txt - klmn - Visual Studio Code": 5,
+      "I tried finding Hidden Gems on AliExpress AGAIN! (Part 13) - YouTube - Brave": 170
+    },
+    "app_switch_count": 61,
+    "max_focus_streak_seconds": 70,
+    "background_media": true,
+    "background_media_seconds": 300,
+    "background_media_source": "other_media",
+    "background_media_title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 13)"
+  },
+  {
+    "_id": {
+      "$oid": "696208bee1efde571d20347e"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T08:07:26.265Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 141,
+    "mouse_count": 15709,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Ubuntu Productivity InfluxDB - Brave": 335,
+      "I tried finding Hidden Gems on AliExpress AGAIN! (Part 13) - YouTube - Brave": 30,
+      "gnome-shell": 35,
+      "ProductivityAgent \u2013 TrackerService.kt [ProductivityAgent.app.main]": 30,
+      "ProductivityAgent \u2013 AndroidManifest.xml [ProductivityAgent.app.main]": 35,
+      "Running Devices - ProductivityAgent": 55,
+      "ProductivityAgent \u2013 MongoSender.kt [ProductivityAgent.app.main]": 140,
+      "YouTube - Brave": 15,
+      "DIY RC Car Transmitter and Receiver || \u0911\u0928\u0932\u093e\u0907\u0928 \u0932\u0942\u091f \u0938\u0947 \u092c\u091a\u0947 || \u0938\u093f\u0930\u094d\u092b 1200 \u20b9 \u092e\u0947\u0902 \u092c\u0928\u093e": 125,
+      "New Tab - Brave": 5,
+      "Invention - YouTube - Brave": 55,
+      "Wealth Made My Father Kneel... And Took My Mother\u2019s Honor - YouTube - Brave": 40
+    },
+    "app_switch_count": 66,
+    "max_focus_streak_seconds": 60,
+    "background_media": true,
+    "background_media_seconds": 850,
+    "background_media_source": "other_media",
+    "background_media_title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 13)"
+  },
+  {
+    "_id": {
+      "$oid": "69620c47e1efde571d20347f"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T08:22:31.675Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 166,
+    "mouse_count": 13386,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Do you think your bad luck is just a coincidence?#shorts - YouTube - Brave": 105,
+      "Ubuntu Productivity InfluxDB - Brave": 275,
+      "ProductivityAgent \u2013 MongoSender.kt [ProductivityAgent.app.main]": 15,
+      "Homer's Crazy Food Bar Invention & Nuclear Fails! #shorts - YouTube - Brave": 45,
+      "New Tab - Brave": 5,
+      "Firebase | Google's Mobile and Web App Development Platform - Brave": 10,
+      "ProductivityAgent \u2013 build.gradle.kts (:app)": 25,
+      "Firebase console - Brave": 10,
+      "Create project - Firebase console - Brave": 80,
+      "ProductivityAgent \u2013 MainActivity.kt [ProductivityAgent.app.main]": 5,
+      "bike turn light #experiment #scienceproject - YouTube - Brave": 15,
+      "A tissue overturns the case.#shorts - YouTube - Brave": 90,
+      "gnome-shell": 10,
+      "Mulan (2020) | Mulan: The Untold Story of a Warrior #movie #tvshow - YouTube - B": 5,
+      "Rigby Buys a Wall Buddy - YouTube - Brave": 5,
+      "A boring storm\u2744\ufe0f makes Francis and the others fight over a rope.\ud83e\uddf5#shorts #viral ": 20,
+      "Is Darwin Gumball's sidekick\uff1f - YouTube - Brave": 5,
+      "Mechanism behind the SD Card\u2019s Satisfying click - YouTube - Brave": 35,
+      "Who says dreams have an age limit? - YouTube - Brave": 35,
+      "My Project 36825 - Firebase console - Brave": 45,
+      "My Project 36825 - Cloud Firestore - Firebase console - Brave": 40,
+      "BRO WAS MENACE IN THIS SCENE \u2620\ufe0f\ud83d\udd25 | HEADS OF STATE EDIT | LOUCURA LETAL SLOWED #t": 20
+    },
+    "app_switch_count": 49,
+    "max_focus_streak_seconds": 75,
+    "background_media": true,
+    "background_media_seconds": 890,
+    "background_media_source": "other_media",
+    "background_media_title": "Do you think your bad luck is just a coincidence?#shorts"
+  },
+  {
+    "_id": {
+      "$oid": "69620fd0e1efde571d203480"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T08:37:36.552Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 55,
+    "mouse_count": 13368,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "BRO WAS MENACE IN THIS SCENE \u2620\ufe0f\ud83d\udd25 | HEADS OF STATE EDIT | LOUCURA LETAL SLOWED #t": 30,
+      "100 days equals a lifetime\u2014how should we exist? \u23f3\ud83e\uddec#shorts #stargate #fantasy #sc": 55,
+      "gnome-shell": 10,
+      "My Project 36825 - Cloud Firestore - Firebase console - Brave": 20,
+      "Ubuntu Productivity InfluxDB - Brave": 110,
+      "The story of little boy Dewey - YouTube - Brave": 70,
+      "mongdb - Brave Search - Brave": 10,
+      "MongoDB: The World\u2019s Leading Modern Database | MongoDB - Brave": 5,
+      "Sign in - Google Accounts - Brave": 5,
+      "She was spouting nothing but lies in an attempt to mislead the officer.#shorts#m": 75,
+      "MongoDB Cloud - Sign In - Brave": 10,
+      "Project Overview | Cloud: MongoDB Cloud - Brave": 100,
+      "Homer Acts as the Princess\u2019s Bodyguard #thesimpsons #fyp\u30b7\u309aviral #simpsons #carto": 5,
+      "Charlie helped deal with his ex\u2019s problem! \ud83d\ude0e\ud83d\udc4c#shorts - YouTube - Brave": 65,
+      "TBK-701 slide microscope \u2013 perfect utilization of space #TBK# Mobile phone repai": 10,
+      "The emergence of new types of viruses #fypyoutube #youtubeshorts #movie - YouTub": 25,
+      "GameStop\u2019s Brutal Offer \ud83d\udc80 - YouTube - Brave": 25,
+      "Running Devices - ProductivityAgent": 5,
+      "ProductivityAgent \u2013 MainActivity.kt [ProductivityAgent.app.main]": 5,
+      "Texas Doesn\u2019t Allow Drifters - YouTube - Brave": 60,
+      "Have you ever thought about letting robots do everything?#shorts - YouTube - Bra": 70,
+      "Databases | Cloud: MongoDB Cloud - Brave": 5,
+      "Cluster0 Search | Cloud: MongoDB Cloud - Brave": 50,
+      "Project Settings | Cloud: MongoDB Cloud - Brave": 75
+    },
+    "app_switch_count": 45,
+    "max_focus_streak_seconds": 75,
+    "background_media": true,
+    "background_media_seconds": 770,
+    "background_media_source": "other_media",
+    "background_media_title": "BRO WAS MENACE IN THIS SCENE \u2620\ufe0f\ud83d\udd25 | HEADS OF STATE EDIT | LOUCURA LETAL SLOWED #trending #shorts"
+  },
+  {
+    "_id": {
+      "$oid": "69621357e1efde571d203481"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T08:52:39.736Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 111,
+    "mouse_count": 15099,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Project Settings | Cloud: MongoDB Cloud - Brave": 95,
+      "Stream Processing | Cloud: MongoDB Cloud - Brave": 20,
+      "Data Explorer | Cloud: MongoDB Cloud - Brave": 5,
+      "Cluster0 Search | Cloud: MongoDB Cloud - Brave": 50,
+      "Ubuntu Productivity InfluxDB - Brave": 85,
+      "gnome-shell": 15,
+      "New Tab - Brave": 10,
+      "Atlas Data API - Atlas App Services - MongoDB Docs - Brave": 45,
+      "Log in | MongoDB - Brave": 10,
+      "Project Overview | Cloud: MongoDB Cloud - Brave": 35,
+      "Upgrade your cluster | Cloud: MongoDB Cloud - Brave": 10,
+      "Create Deployment | Cloud: MongoDB Cloud - Brave": 25,
+      "Connection Pool Overview - Database Manual - MongoDB Docs - Brave": 210,
+      "All Projects | Cloud: MongoDB Cloud - Brave": 30,
+      "Project Integrations | Cloud: MongoDB Cloud - Brave": 5,
+      "Untitled - Brave": 5,
+      "Integrate with Third-Party Services - Atlas - MongoDB Docs - Brave": 15,
+      "Federated Database Instance | Cloud: MongoDB Cloud - Brave": 25,
+      "Triggers | Cloud: MongoDB Cloud - Brave": 5,
+      "Create Service Account | Cloud: MongoDB Cloud - Brave": 55,
+      "Get Started with the Atlas Administration API - Atlas - MongoDB Docs - Brave": 5,
+      "Applications | Cloud: MongoDB Cloud - Brave": 10,
+      "Create API Key | Cloud: MongoDB Cloud - Brave": 30,
+      "Federation | Cloud: MongoDB Cloud - Brave": 5,
+      "Users | Cloud: MongoDB Cloud - Brave": 5,
+      "Billing Overview | Atlas: MongoDB Atlas - Brave": 5,
+      "Cost Explorer | Atlas: MongoDB Atlas - Brave": 10,
+      "Organization General Settings | Atlas: MongoDB Atlas - Brave": 35,
+      "All Projects | Atlas: MongoDB Atlas - Brave": 5,
+      "mongodb Data API - Brave Search - Brave": 5,
+      "MongoDB Data API - Brave": 10,
+      "Start Developing with MongoDB - Drivers - MongoDB Docs - Brave": 15,
+      "MongoDB with Java - MongoDB Documentation - MongoDB Docs - Brave": 5
+    },
+    "app_switch_count": 54,
+    "max_focus_streak_seconds": 200,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "696216dee1efde571d203482"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T09:07:42.705Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 144,
+    "mouse_count": 22010,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "MongoDB with Java - MongoDB Documentation - MongoDB Docs - Brave": 5,
+      "Service Deprecations - Atlas App Services - MongoDB Docs - Brave": 5,
+      "Data API and HTTPS Endpoints Deprecation - Atlas App Services - MongoDB Docs - B": 25,
+      "Spring Boot Integration With MongoDB Tutorial | MongoDB - Brave": 5,
+      "Log in | MongoDB - Brave": 10,
+      "Cloud: MongoDB Cloud - Brave": 15,
+      "Project Overview | Cloud: MongoDB Cloud - Brave": 135,
+      "Upgrade your cluster | Cloud: MongoDB Cloud - Brave": 5,
+      "Cluster0 Metrics | Cloud: MongoDB Cloud - Brave": 20,
+      "Cluster0 Query Insights | Cloud: MongoDB Cloud - Brave": 5,
+      "Performance Advisor | Cloud: MongoDB Cloud - Brave": 5,
+      "Data Explorer | Cloud: MongoDB Cloud - Brave": 5,
+      "All Projects | Cloud: MongoDB Cloud - Brave": 25,
+      "Project Settings | Cloud: MongoDB Cloud - Brave": 40,
+      "Project Integrations | Cloud: MongoDB Cloud - Brave": 5,
+      "All Projects | Atlas: MongoDB Atlas - Brave": 10,
+      "Ubuntu Productivity InfluxDB - Brave": 40,
+      "New Tab - Brave": 5,
+      "YouTube - Brave": 10,
+      "ProductivityAgent \u2013 MongoSender.kt [ProductivityAgent.app.main]": 5,
+      "mongodb data api - YouTube - Brave": 30,
+      "Introducing the MongoDB Data API - YouTube - Brave": 60,
+      "Databases | Cloud: MongoDB Cloud - Brave": 10,
+      "Clusters | Cloud: MongoDB Cloud - Brave": 35,
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 130,
+      "gnome-shell": 5,
+      "Fetching Data from MongoDB Using API: A Step-by-Step Guide - YouTube - Brave": 10,
+      "Migration | Cloud: MongoDB Cloud - Brave": 10,
+      "Federated Database Instance | Cloud: MongoDB Cloud - Brave": 25,
+      "Federated Database Instance Onboarding | Cloud: MongoDB Cloud | Cloud: MongoDB C": 160,
+      "Get Started with the Atlas Administration API - Atlas - MongoDB Docs - Brave": 10,
+      "MongoDB Data API - Brave": 15,
+      "Untitled - Brave": 5,
+      "Federated Database Instance Configuration | Cloud: MongoDB Cloud - Brave": 10,
+      "Deploy your cluster | Cloud: MongoDB Cloud - Brave": 5
+    },
+    "app_switch_count": 71,
+    "max_focus_streak_seconds": 85,
+    "background_media": true,
+    "background_media_seconds": 180,
+    "background_media_source": "other_media",
+    "background_media_title": "Introducing the MongoDB Data API"
+  },
+  {
+    "_id": {
+      "$oid": "69621a66e1efde571d203483"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T09:22:46.003Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 305,
+    "mouse_count": 19301,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Deploy your cluster | Cloud: MongoDB Cloud - Brave": 60,
+      "All Projects | Cloud: MongoDB Cloud - Brave": 30,
+      "Ubuntu Productivity InfluxDB - Brave": 210,
+      "Project Overview | Cloud: MongoDB Cloud - Brave": 135,
+      "mongodb.com/docs/manual/administration/connection-pool-overview/#use-an-instance": 5,
+      "Connection Pool Overview - Database Manual - MongoDB Docs - Brave": 5,
+      "Start Developing with MongoDB - Drivers - MongoDB Docs - Brave": 5,
+      "Federated Database Instance | Cloud: MongoDB Cloud - Brave": 30,
+      "Charts | Cloud: MongoDB Cloud - Brave": 15,
+      "Cloud: MongoDB Cloud - Brave": 10,
+      "Project Settings | Cloud: MongoDB Cloud - Brave": 45,
+      "Migration | Cloud: MongoDB Cloud - Brave": 10,
+      "MBot says\u2026 - Brave": 40,
+      "Profile Info | MongoDB Cloud Services - Brave": 15,
+      "Invitations | MongoDB Cloud Services - Brave": 5,
+      "Organizations | MongoDB Cloud Services - Brave": 5,
+      "Users | Cloud: MongoDB Cloud - Brave": 30,
+      "Organization General Settings | Cloud: MongoDB Cloud - Brave": 5,
+      "Organization General Settings | Atlas: MongoDB Atlas - Brave": 25,
+      "Applications | Atlas: MongoDB Atlas - Brave": 30,
+      "Create API Key | Atlas: MongoDB Atlas - Brave": 40,
+      "bybjklzj - Brave Search - Brave": 5,
+      "gnome-shell": 5,
+      "MongoDB Charts - Brave": 25,
+      "Applications | Cloud: MongoDB Cloud - Brave": 10,
+      "Create Team | Cloud: MongoDB Cloud - Brave": 15,
+      "Billing Overview | Cloud: MongoDB Cloud - Brave": 5,
+      "Billing Overview | Atlas: MongoDB Atlas - Brave": 5,
+      "Invoices | Atlas: MongoDB Atlas - Brave": 10,
+      "Cost Explorer | Atlas: MongoDB Atlas - Brave": 15,
+      "All Projects | Atlas: MongoDB Atlas - Brave": 5,
+      "Teams | Cloud: MongoDB Cloud - Brave": 10,
+      "Fetching Data from MongoDB Using API: A Step-by-Step Guide - YouTube - Brave": 20,
+      "MONGODB DATA API - YouTube - Brave": 5,
+      "Build & Export your Aggregation Pipelines using the MongoDB Atlas Aggregation Pi": 10
+    },
+    "app_switch_count": 62,
+    "max_focus_streak_seconds": 85,
+    "background_media": true,
+    "background_media_seconds": 10,
+    "background_media_source": "other_media",
+    "background_media_title": "Build & Export your Aggregation Pipelines using the MongoDB Atlas Aggregation Pipeline Builder"
+  },
+  {
+    "_id": {
+      "$oid": "69621dede1efde571d203484"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T09:37:49.060Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 420,
+    "mouse_count": 12781,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Build & Export your Aggregation Pipelines using the MongoDB Atlas Aggregation Pi": 5,
+      "Fetching Data from MongoDB Using API: A Step-by-Step Guide - YouTube - Brave": 30,
+      "Teams | Cloud: MongoDB Cloud - Brave": 30,
+      "Not Found | Cloud: MongoDB Cloud - Brave": 25,
+      "Cloud: MongoDB Cloud - Brave": 10,
+      "Security | MongoDB Cloud Services - Brave": 10,
+      "Organizations | MongoDB Cloud Services - Brave": 5,
+      "Ubuntu Productivity InfluxDB - Brave": 215,
+      "All Projects | Cloud: MongoDB Cloud - Brave": 5,
+      "Project Overview | Cloud: MongoDB Cloud - Brave": 5,
+      "Cluster0 Search | Cloud: MongoDB Cloud - Brave": 20,
+      "data api not showing in mongodb - YouTube - Brave": 25,
+      "Resolving the MongoDB Data Not Appearing Issue in Your Express App - YouTube - B": 5,
+      "Users | Cloud: MongoDB Cloud - Brave": 20,
+      "Create Service Account | Cloud: MongoDB Cloud - Brave": 25,
+      "Applications | Cloud: MongoDB Cloud - Brave": 10,
+      "Create API Key | Cloud: MongoDB Cloud - Brave": 15,
+      "gnome-shell": 5,
+      "YouTube - Brave": 10,
+      "Do you know how to make people forget what they\u2019ve done?#shorts - YouTube - Brav": 120,
+      "My manager docked my pay for being 37 seconds late, so I made sure the same rule": 150,
+      "Another world, same Jerry #shorts - YouTube - Brave": 25,
+      "Untitled - Brave": 5,
+      "Firebase Firestore - Brave Search - Brave": 5,
+      "Firestore \u00a0|\u00a0 Firebase - Brave": 15,
+      "MongoDB compatibility overview \u00a0|\u00a0 Firestore \u00a0|\u00a0 Firebase - Brave": 5,
+      "Appwrite - The developers' cloud - Brave": 5,
+      "Firebase Studio - Brave": 30,
+      "Sign in - Appwrite - Brave": 5,
+      "New Prototype - Firebase Studio - Brave": 15,
+      "DataLink Bridge - Firebase Studio - Brave": 25,
+      "Create project - Appwrite - Brave": 20
+    },
+    "app_switch_count": 48,
+    "max_focus_streak_seconds": 150,
+    "background_media": true,
+    "background_media_seconds": 370,
+    "background_media_source": "other_media",
+    "background_media_title": "Fetching Data from MongoDB Using API: A Step-by-Step Guide"
+  },
+  {
+    "_id": {
+      "$oid": "69622173e1efde571d203485"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T09:52:51.449Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "afternoon",
+    "keys_count": 217,
+    "mouse_count": 10227,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Console - Appwrite - Brave": 115,
+      "gnome-shell": 25,
+      "ProductivityAgent \u2013 MongoSender.kt [ProductivityAgent.app.main]": 10,
+      "Ubuntu Productivity InfluxDB - Brave": 240,
+      "ProductivityAgent \u2013 build.gradle.kts (:app)": 440,
+      "Untitled - Brave": 5,
+      "API key - Appwrite - Brave": 15,
+      "Organizations - Appwrite - Brave": 5,
+      "Databases - Appwrite - Brave": 10,
+      "Database - Appwrite - Brave": 10,
+      "Users | Cloud: MongoDB Cloud - Brave": 5,
+      "Clusters | Cloud: MongoDB Cloud - Brave": 15,
+      "Databases | Cloud: MongoDB Cloud - Brave": 5
+    },
+    "app_switch_count": 32,
+    "max_focus_streak_seconds": 360,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "696260f8e1efde571d203486"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T14:23:52.430Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "evening",
+    "keys_count": 123,
+    "mouse_count": 8843,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "81b3c848-4259-4dfc-826b-fa4360905bf8 - Brave Search - Brave": 5,
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 95,
+      "Ubuntu Productivity InfluxDB - Brave": 215,
+      "gnome-shell": 50,
+      "Auth | Cursor - The AI Code Editor - Brave": 5,
+      "DataLink Bridge - Firebase Studio - Brave": 10,
+      "Another world, same Jerry #shorts - YouTube - Brave": 5,
+      "ProductivityAgent \u2013 build.gradle.kts (:app)": 40,
+      "New Tab - Brave": 5,
+      "YouTube - Brave": 40,
+      "Desktop Icons 1": 35,
+      "Making ABCD Key Chains with Liquid \u2013 Step by Step! - YouTube - Brave": 60,
+      "Who won between Malcolm and Reese? - YouTube - Brave": 10,
+      "Homer eating pizza while driving #anime #animerecap #TheSimpsons - YouTube - Bra": 95,
+      "Gridfinity, but for drill bits up to 15 mm #3dprinting - YouTube - Brave": 35,
+      "Incredible efficiency! Just 3 minutes to produce 100 envelopes by skilled hands.": 115,
+      "This new joystick is a game changer - YouTube - Brave": 30,
+      "Woke up to a house full of...#shorts - YouTube - Brave": 15,
+      "This robot is omni-directional - YouTube - Brave": 10,
+      "Grandma's gold dentures.#shorts - YouTube - Brave": 5,
+      "This Fevicol Ad Turned a Kid Into the Product Demo - YouTube - Brave": 10,
+      "Bart and Millhouse found Homer's lost money. #anime #animerecap #TheSimpsons - Y": 5,
+      "My girlfriend said, \u201cIf you\u2019re hurting, ask the staff. My friend needs me more r": 5
+    },
+    "app_switch_count": 38,
+    "max_focus_streak_seconds": 115,
+    "background_media": false,
+    "background_media_seconds": 0,
+    "background_media_source": null,
+    "background_media_title": null
+  },
+  {
+    "_id": {
+      "$oid": "69626481e1efde571d203487"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T14:38:57.114Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "evening",
+    "keys_count": 27,
+    "mouse_count": 5625,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "The robot boss was hoisted up.\ud83e\udd23#edit #shorts #robots #viralvideo #comedy - YouTu": 25,
+      "#3 demonstration of a logic level MOSFET!! - YouTube - Brave": 10,
+      "This New Way Solves a Major 2D Electronics Problem By Making Transistors Switch ": 15,
+      "M\u00e1y ti\u1ec7n g\u1ed7 cnc n\u1ea1p ph\u00f4i t\u1ef1 \u0111\u1ed9ng #fuvico #fuvicohanoi #maychebiengo #xuhuong #cn": 10,
+      "Arduino Birthday Surprise - Electronic Music Box gadget #short #arduino - YouTub": 10,
+      "How To Make LED Flasher using single Relay || Led Chaser #shorts #led - YouTube ": 35,
+      "The PVC water system that actually worksSimple parts, serious #DIYTools #PVCHack": 60,
+      "Start 2026 out with watching a Farming Timelapse! Happy New Year! #agriculture #": 5,
+      "I selected ALL these Bayberry pieces for THIS! - YouTube - Brave": 60,
+      "#movie \ud83d\udc8e The Ultimate Betrayal at the Diamond Mine | A Tense Negotiation from \"B": 25,
+      "Not every Hero wears a cape \ud83d\udc40\ud83d\udd25 - YouTube - Brave": 10,
+      "Touch switch circuit #experiment #scienceproject - YouTube - Brave": 25,
+      "Handmade Apex Octane Heirloom Metal Replica #apex #heirloom #octane - YouTube - ": 15,
+      "How tata 407 yoke Is Made \u2013 Induction Hardening & Quality Testing | MMW Auto Ind": 5,
+      "That Moment Bruno Mars Realized He Had To Go CRAZY \ud83d\udd25 #LivePerformance #BrunoMars": 10,
+      "Soldando chip para Arduino #maker - YouTube - Brave": 15,
+      "Family guy king stwie \ud83d\ude02\ud83d\ude4f\ud83e\udd23 #shortsfeed #ytshorts - YouTube - Brave": 10,
+      "Logarithmic spiral gear mechanism / Nautilus spiral gear work #automobile #auto ": 5,
+      "We have a new member in our team - YouTube - Brave": 50,
+      "Car has been vivified with a projector - YouTube - Brave": 20,
+      "Creative idea \ud83e\udd0c\ud83c\udffb\ud83c\udf38 - YouTube - Brave": 70,
+      "This is genius \ud83e\udd2f #audio #song #amazonmusthaves #amazonfinds #amazonproducts #kit": 10,
+      "\u201cYou don't like real girls.\u201d#bladerunner #viralvideo #shortvideo - YouTube - Bra": 90,
+      "YouTube - Brave": 5,
+      "Blade Runner 2049 Explained | Denis Villeneuve - YouTube - Brave": 30,
+      "gnome-shell": 50,
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 40,
+      "Not Found | Cloud: MongoDB Cloud - Brave": 5,
+      "All Projects | Cloud: MongoDB Cloud - Brave": 180
+    },
+    "app_switch_count": 33,
+    "max_focus_streak_seconds": 180,
+    "background_media": true,
+    "background_media_seconds": 260,
+    "background_media_source": "other_media",
+    "background_media_title": "Blade Runner 2049 Explained | Denis Villeneuve"
+  },
+  {
+    "_id": {
+      "$oid": "6962680be1efde571d203488"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T14:54:03.281Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "evening",
+    "keys_count": 79,
+    "mouse_count": 3635,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "All Projects | Cloud: MongoDB Cloud - Brave": 20,
+      "Blade Runner 2049 Explained | Denis Villeneuve - YouTube - Brave": 280,
+      "New Tab - Brave": 5,
+      "ChatGPT - Brave": 25,
+      "Blade Runner Joi Character - Brave": 10,
+      "Joi Blade Runner 2049 - Brave": 220,
+      "YouTube - Brave": 25,
+      "Why don't jet engines melt? - YouTube - Brave": 200,
+      "DIY Hexapod Robot! #Shorts - YouTube - Brave": 20,
+      "We Built Infinite Storage - Part 23 - YouTube - Brave": 50,
+      "One Million Dollars\u2026 And Everyone Loses Their Mind \ud83d\udcb8\ud83d\ude02 - YouTube - Brave": 45
+    },
+    "app_switch_count": 13,
+    "max_focus_streak_seconds": 220,
+    "background_media": true,
+    "background_media_seconds": 870,
+    "background_media_source": "other_media",
+    "background_media_title": "Blade Runner 2049 Explained | Denis Villeneuve"
+  },
+  {
+    "_id": {
+      "$oid": "69626b93e1efde571d203489"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T15:09:07.787Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "evening",
+    "keys_count": 7,
+    "mouse_count": 2212,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "One Million Dollars\u2026 And Everyone Loses Their Mind \ud83d\udcb8\ud83d\ude02 - YouTube - Brave": 5,
+      "My Log Cabin Project, This is the past 2 years. #logcabin #cabin #bushcraft #Out": 10,
+      "Could this be serious competition for Nvidia? \ud83d\udc40 #trendingshorts #technology #ai ": 20,
+      "This was truly a wonderful trip.#shorts - YouTube - Brave": 125,
+      "Love Portrayed By Morty. #real #mentality - YouTube - Brave": 25,
+      "Joi Blade Runner 2049 - Brave": 55,
+      "Mac makes science look stupid - YouTube - Brave": 25,
+      "We Built Infinite Storage - Part 27 - YouTube - Brave": 5,
+      "AI Turrets vs Drones: Sentradel\u2019s Autonomous Sentry (@sts_3d) #AI #DroneDefense ": 20,
+      "Watch Out For This Bottle @jason.sullivan \ud83c\udf76 - YouTube - Brave": 30,
+      "$85K Cyberpunk BMW by Zillers \ud83e\uddbe\ud83d\ude0e#motorcycle #car #wow #luxury - YouTube - Brave": 5,
+      "She was wrongfully accused of murder.#shorts - YouTube - Brave": 5,
+      "How Split Charging Stacks Power Dozens of EVs at Once - YouTube - Brave": 5,
+      "The Most Overlooked Business Ideas of 2026 - YouTube - Brave": 20,
+      "This Ancient Chinese Tomb Door Was Genius #shorts #ancient - YouTube - Brave": 5,
+      "One-Stop Closed-Loop Machining, Worry-Free and More Efficient - YouTube - Brave": 5,
+      "The Man in the Iron Mask (1998) | Someone Put Me in a Mask #movie #tvshow - YouT": 55,
+      "Shunt resistors: measuring current with voltage - YouTube - Brave": 35,
+      "January 8, 2026 - YouTube - Brave": 15,
+      "She found out she invited an old friend, so this happens\u2026#samandcat #tvshow #sho": 25,
+      "#music #movie How to DEFEAT a Snow Monster! The Hilarious Carrot Trick - YouTube": 50,
+      "That's why paying attention in class is so important!#edit #shorts #movieedits #": 10,
+      "He tried to claim the whole bench \ud83d\ude20 #Shorts #wholesome - YouTube - Brave": 60,
+      "The influence of Clicksapp\ud83e\udddf\u200d\u2642\ufe0f\ud83e\udddf\u200d\u2640\ufe0f\ud83e\udddf (TWWWOG S2) #viralshorts #10m #theamazingwor": 60,
+      "They Tricked Him Into Building His Own Home \ud83c\udfe0\u2764\ufe0f - YouTube - Brave": 50,
+      "Maybe this is the origin of life - YouTube - Brave": 55,
+      "Can an AI Smart Bin Handle a Dishwasher Tablet? \ud83e\udd16\u267b\ufe0f - YouTube - Brave": 20,
+      "Superman Told Supergirl to Quantum Scan, Winn Finished Decrypting Pod's Data Log": 5,
+      "How are Hal's teeth? - YouTube - Brave": 5,
+      "Push Lock Door Holder - The Grabber \u2b06\ufe0f - YouTube - Brave": 5,
+      "A bus causes 3 pollutions - YouTube - Brave": 35,
+      "Lisa and Nelson are together #thesimpsons #fyp #anime - YouTube - Brave": 50
+    },
+    "app_switch_count": 35,
+    "max_focus_streak_seconds": 125,
+    "background_media": true,
+    "background_media_seconds": 890,
+    "background_media_source": "other_media",
+    "background_media_title": "My Log Cabin Project, This is the past 2 years. #logcabin #cabin #bushcraft #Outdoors #camping"
+  },
+  {
+    "_id": {
+      "$oid": "69626f1ae1efde571d20348a"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T15:24:10.370Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "evening",
+    "keys_count": 448,
+    "mouse_count": 6710,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Lisa and Nelson are together #thesimpsons #fyp #anime - YouTube - Brave": 25,
+      "how to over-engineer cannon rounds - YouTube - Brave": 70,
+      "youtube shorts \ud83d\ude4f\ud83d\ude4f - YouTube - Brave": 5,
+      "VEVOR Inflatable Paint Booth - YouTube - Brave": 20,
+      "Only Queens Were Allowed to Wear This\ud83e\udd2f - YouTube - Brave": 50,
+      "Birds' greatest enemy is glass.#series #movie #shortvideo - YouTube - Brave": 60,
+      "xQc Reacts to LEGO Car VS. Growing Wall - YouTube - Brave": 100,
+      "Could i get 10M views again? - YouTube - Brave": 10,
+      "\ud83e\udde0 Humans Can\u2019t Process This Much Data \u2014 AI Can - YouTube - Brave": 20,
+      "Joi Blade Runner 2049 - Brave": 295,
+      "New Tab - Brave": 10,
+      "ChatGPT - Brave": 5,
+      "chatgpt.js - Brave Search - Brave": 15,
+      "Chat GPT in JavaScript - CodeProject - Brave": 10,
+      "chatgpt.js \u2014 A powerful client-side JavaScript library for ChatGPT - Brave": 20,
+      "KudoAI \u2014 Bringing cutting-edge AI to the masses - Brave": 70,
+      "chatgpt.com pupter - Brave Search - Brave": 10,
+      "chatgpt.js nodejs pupter - Brave Search - Brave": 20,
+      "How I Use a ChatGPT structured prompt to Build Node.js Backend APIs : r/node - B": 45,
+      "How to Use ChatGPT API in NodeJS? - GeeksforGeeks - Brave": 10,
+      "How to Use ChatGPT to Build Node.js Backend APIs: Step-by-Step Guide with Codeho": 30
+    },
+    "app_switch_count": 28,
+    "max_focus_streak_seconds": 275,
+    "background_media": true,
+    "background_media_seconds": 390,
+    "background_media_source": "other_media",
+    "background_media_title": "Lisa and Nelson are together #thesimpsons #fyp #anime"
+  },
+  {
+    "_id": {
+      "$oid": "696272a0e1efde571d20348b"
+    },
+    "timestamp": {
+      "$date": "2026-01-10T15:39:12.804Z"
+    },
+    "device": "ubuntu_laptop",
+    "user": "rachappa",
+    "os": "ubuntu",
+    "time_bucket": "night",
+    "keys_count": 747,
+    "mouse_count": 5728,
+    "active_seconds": 0,
+    "idle_seconds": 0,
+    "locked_seconds": 0,
+    "apps": {
+      "Joi Blade Runner 2049 - Brave": 45,
+      "Ubuntu Productivity InfluxDB - Brave": 5,
+      "New Tab - Brave": 10,
+      "use chatgpt free in server - Brave Search - Brave": 15,
+      "Ditching ChatGPT Plus: How I Built My Own Private GPT for Free | by Noah Street ": 10,
+      "Run Your Own ChatGPT Locally for Free! | Crosstalk Solutions - Brave": 165,
+      "ChatGPT - Brave": 270,
+      "Study Helper for Students - Brave": 5,
+      "Study Helper Design - Brave": 130,
+      "All Projects | Cloud: MongoDB Cloud - Brave": 5,
+      "gnome-shell": 5,
+      "Project Overview | Cloud: MongoDB Cloud - Brave": 5,
+      "YouTube - Brave": 10,
+      "Metrics | Cloud: MongoDB Cloud - Brave": 5,
+      "Cluster0 Data | Cloud: MongoDB Cloud - Brave": 170,
+      "Building a tiny satellite to monitor temperature and humidity #arduino #nasa #sa": 5,
+      "Data Explorer | Cloud: MongoDB Cloud - Brave": 5,
+      "MongoDB Charts - Brave": 35
+    },
+    "app_switch_count": 19,
+    "max_focus_streak_seconds": 270,
+    "background_media": true,
+    "background_media_seconds": 220,
+    "background_media_source": "other_media",
+    "background_media_title": "Building a tiny satellite to monitor temperature and humidity #arduino #nasa #satellite"
+  }
+]
